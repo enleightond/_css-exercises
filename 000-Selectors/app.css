@@ -1,6 +1,7 @@
 body {
   background: #222;
   color: white;
+  background-color: green;
 }
 
 img {
@@ -12,3 +13,9 @@ img {
 }
 
 /* Code Under This Line */
+.foo {
+	background-color: red;
+}
+.bar {
+	background-color: blue;
+}
