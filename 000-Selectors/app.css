@@ -1,7 +1,7 @@
 body {
   background: #222;
   color: white;
-  background-color: green;
+  
 }
 
 img {
@@ -19,3 +19,7 @@ img {
 .bar {
 	background-color: blue;
 }
+.collection{
+	background-color: green;
+}
+
