@@ -15,9 +15,9 @@ img {
 .tall {
 	height: 200px;
 }
-.outside, .inside {
+.outside .inside {
 	height: 100%;
 }
-.giant {
-	
+html, body, .giant {
+	height: 100%
 }
