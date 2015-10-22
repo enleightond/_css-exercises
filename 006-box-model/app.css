@@ -8,3 +8,34 @@ img {
   max-width: 100%;
 }
 /* Code Under This Line */
+.box-model {
+	margin-right: 25%;
+	margin-left: 25%;
+
+}
+
+.a {
+	background: yellow;
+	padding: 20px;
+	padding-top: 30px;
+	
+
+}
+.b {
+	padding: 20px;
+	padding-top: 30px;
+	background: orange;
+
+}
+.c {
+	padding: 20px;
+	padding-top: 30px;
+	background: black;
+
+}
+.d {
+	padding: 20px;
+	padding-top: 30px;
+	background: blue;
+
+}
