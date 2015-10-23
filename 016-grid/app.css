@@ -32,3 +32,35 @@ h3 {
 }
 
 /* Code Under This Line */
+
+.column {
+  float: left;
+
+}
+
+.columns.two .column{
+  float: left;
+  width: 50%;
+}
+.columns.three .column{
+  float: left;
+  width: 33.33%;
+  height: 26px;
+}
+.columns .column.column-four{
+  float: left;
+  width: 25%;
+}
+.columns .column.column-two{
+  float: left;
+  width: 50%;
+}
+
+
+
+
+
+
+
+
+
